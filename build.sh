@@ -1,0 +1,1 @@
+nativefier --name 'Consider' https://app.consider.co/ --icon 'Consider.icns' --internal-urls '.*(google|consider)\.(com|co).*' --inject site.css --title-bar-style 'hidden'

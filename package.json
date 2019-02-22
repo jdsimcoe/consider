@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "consider",
+  "version": "0.1.0",
+  "description": "A native macOS app for Consdier, built on Electron.",
+  "scripts": {
+    "start": "sh build.sh"
+  },
+  "keywords": [
+    "consider",
+    "electron"
+  ],
+  "author": "Jonathan Simcoe",
+  "license": "MIT",
+  "devDependencies": {
+    "nativefier": "^7.6.10"
+  }
+}
